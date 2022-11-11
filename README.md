@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @DongwoonJeong
-- 👀 I’m interested in code!
-- 🌱 I’m currently learning Java, C# agian.
 - 📫 How to reach me : dongwoon.dj@gmail.com
 
 <!---
